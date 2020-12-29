@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yuri92/aem-installer/issues"
   },
-  "homepage": "https://github.com/yuri92/aem-installer#readme"
+  "homepage": "https://github.com/yuri92/aem-installer#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
