@@ -1,4 +1,4 @@
-# aem-installer
+# AEM Installer
 È necessario creare un file `config.json` allo stesso livello di `index.js` che abbia come contenuto:
 
 ```
